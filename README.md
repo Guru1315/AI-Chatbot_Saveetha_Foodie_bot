@@ -54,6 +54,4 @@ python app.py
 
 Built as a student project at **Saveetha University (SIMATS Engineering)** to make campus food discovery easier for everyone.
 
-## 📄 License
 
-This project is licensed under the MIT License.
