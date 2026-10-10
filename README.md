@@ -1,4 +1,4 @@
-  🚀Deployment = [![Streamlit App](https://streamlit.io)](https://streamlit.app)
+  🚀Deployment = 
  
 # 🍽️ Saveetha Foodie Bot
 
