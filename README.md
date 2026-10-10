@@ -1,4 +1,4 @@
-  🚀Deployment = 
+  🚀Deployment = https://ai-chatbot-pvj39rjn32zxtyxtlqrehq.streamlit.app/
  
 # 🍽️ Saveetha Foodie Bot
 
