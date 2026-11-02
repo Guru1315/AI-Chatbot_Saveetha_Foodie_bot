@@ -2,7 +2,6 @@ from google import genai
 
 client = genai.Client(api_key="xyz")
 
-
 with open("saveetha_university_infos.txt","r") as f:
   kb = f.read()
 
