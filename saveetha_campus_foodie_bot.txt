@@ -24,6 +24,5 @@ chat = client.chats.create(
     }
 )
 
-
 response = chat.send_message("I want to eat biriyani say any one best resturant ")
 print (response.text)
