@@ -8,6 +8,7 @@ Official name : Saveetha Institute of Medical and Technical Sciences (SIMATS)
 Also known as : Saveetha University
                 SIMATS Engineering
                 SIMATS University
+                SSE
                 Saveetha Engineering College
 
 
@@ -100,6 +101,7 @@ Meals
 - SS Caters - Equatorial Garden
 
 Fried Rice
+Its for all chicken,gobi,veg,panner rices
 - Sree Caters - Equatorial Garden (famous for affordable prices)
 - RR Restaurant - Near Krishna Hotel, SSPE College (famous for spicy food)
 - Anukraha - Near Krishna Hostel, SSPE College
